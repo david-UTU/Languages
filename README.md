@@ -26,6 +26,7 @@
 - Fibonnaci Sequence
 - Factorial Calculation
 - Binary Tree
+
 ### Future Projects
 
 ### Haskell
